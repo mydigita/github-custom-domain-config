@@ -2,5 +2,6 @@
 Full guideline for using custom domain to any github repository. 
 
 ## Step 1
-Open your repositoy
+Open your repositoy and click on Settings
+
 ![Repo](/images/open-repo.jpg)
