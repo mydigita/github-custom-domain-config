@@ -26,10 +26,13 @@ Add / point the following IP addresses to your custom domain in DNS zone with `A
 
 
 
-## Step 4
+## Step 4 
 
 Come back to your repository Settings-> Github Pages, then put your domain name to this field and click on `Save`
 
 ![Put your domain name](/images/put-domain-name.jpg)
+
+
+## Step 5 (fix https issue and review)
 
 
