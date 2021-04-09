@@ -37,6 +37,6 @@ Come back to your repository Settings-> Github Pages, then put your domain name 
 
 After the step 4, your github page will be published with your custom domain name. When you'll visit https://username.github.io/yourprojectname and when you'll visit your custom domain like https://tradecoder.com, for both the cases it will load with your custom domain name. It may take few minutes to get effective. 
 
-And if you find in the section of Github Pages that https is not active, it may take upto 24 hours to be active it. If not, you may have to remove and add the domain in the github page again. 
+And if you find in the section of Github Pages that https is not active, it may take upto 24 hours to be active. If not, you may have to remove and add the domain in the github page again. 
 
 
