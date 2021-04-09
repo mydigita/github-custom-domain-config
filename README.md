@@ -35,4 +35,6 @@ Come back to your repository Settings-> Github Pages, then put your domain name 
 
 ## Step 5 (fix https issue and review)
 
+After the step 4, your github page will be published with name of your custom domain name. When you'll visit https://username.github.io/yourprojectname and when you'll visit your custom domain, for both the cases it will load with your custom domain name. It may take few minutes to get effective. 
+
 
