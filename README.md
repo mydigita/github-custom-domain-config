@@ -24,6 +24,12 @@ Add / point the following IP addresses to your custom domain in DNS zone with `A
 * 185.199.110.153
 * 185.199.111.153
 
+![dns-zone](/images/dns-zone.jpg)
+
+***
+
+
+
 
 
 ## Step 4 
