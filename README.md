@@ -24,11 +24,11 @@ Add / point the following IP addresses to your custom domain in DNS zone with `A
 * 185.199.110.153
 * 185.199.111.153
 
+Open DNS zone 
 ![dns-zone](/images/dns-zone.jpg)
 
-***
-
-
+Then add the ips
+![add-github-ips](/images/add-github-ips)
 
 
 
