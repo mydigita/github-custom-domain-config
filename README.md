@@ -28,7 +28,7 @@ Open DNS zone
 ![dns-zone](/images/dns-zone.jpg)
 
 Then add the ips
-![add-github-ips](/images/add-github-ips)
+![add-github-ips](/images/add-github-ips.jpg)
 
 
 
